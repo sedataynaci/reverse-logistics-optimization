@@ -69,3 +69,4 @@ I contributed to:
 1. Install required libraries:
 ```bash
 pip install pandas pulp matplotlib networkx
+python Thesis.py
